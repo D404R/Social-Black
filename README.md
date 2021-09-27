@@ -1,6 +1,4 @@
 # Social-Black
-Social-Black foi criado para roda apenas no termux.
-============================
 Comamdos abaixo:
 apt update -y
 pkg upgrade -y
